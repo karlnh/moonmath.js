@@ -1,4 +1,4 @@
-const { numToArr } = require("./lib/converters");
+const { numToArr, addZeroes } = require("./lib/converters");
 const { moonSum } =require("./lib/operations");
 
 function moon(op, n1, n2) {
