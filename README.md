@@ -1,6 +1,6 @@
 # MOONMATH
 
-Moonmath.js is a package providing basic lunar arithmetic operations.
+Moonmath.js is a package providing the basic lunar arithmetic operations.
 
 ## What the hell is lunar arithmetic?
 
