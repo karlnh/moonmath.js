@@ -1,3 +1,5 @@
-const { moonSum, moonProduct } =require("./lib/operations");
+const { moonProduct, moonSum } =require("./lib");
 
-module.exports = moonSum;
+console.log(moonSum(100,2,50));
+
+module.exports = { moonSum };
