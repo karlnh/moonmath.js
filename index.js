@@ -1,5 +1,5 @@
-const { moonProduct, moonSum } =require("./lib");
+const { moonProduct, moonSum } = require("./lib");
 
-console.log(moonSum(100,2,50));
+// console.log(moonSum(100,2,51));
 
 module.exports = { moonSum };
